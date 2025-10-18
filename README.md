@@ -6,7 +6,8 @@ A custom WordPress website designed with **Elementor Pro** for Eng Khallaghi.
 [Visit Website](https://engkhallaghi.com)
 
 ## 🖼️ Preview
-![Eng Khallaghi Screenshot](./screencapture-engkhallaghi-com.png)
+![Eng Khallaghi Screenshot](./screencapture-engkhallaghi-2025-09-15-11_01_42.png)
+
 
 ## 🧩 Features
 - Built with WordPress & Elementor Pro  
